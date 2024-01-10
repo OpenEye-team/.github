@@ -23,5 +23,7 @@ OpenEye is an innovative mobile application specifically designed to help people
 - Tensorflow
 - Google Cloud Platform
 - Firebase Notification
+- Gemini
+- Langchain
 
 ## Try the app
