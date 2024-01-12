@@ -1,6 +1,14 @@
+
+
 ## About OpenEye
 
 OpenEye is an innovative mobile application specifically designed to help people with diabetes identify the symptoms of diabetic retinopathy early and prevent blindness. Utilizing advanced Artificial Intelligence technology, the app provides a quick and effective solution for monitoring users' eye health.
+
+**Open Eye has 4 main Features:**
+1. Early Retinopathy Diabetic Detection
+2. Tracking Blood Sugar Level
+3. Article
+4. Chatbot with LLMs
 
 ## Our Team
 
@@ -25,5 +33,3 @@ OpenEye is an innovative mobile application specifically designed to help people
 - Firebase
 - Generative AI on Google Cloud
 - Langchain
-
-## Try the app
