@@ -21,9 +21,9 @@ OpenEye is an innovative mobile application specifically designed to help people
 - Docker
 - Flask
 - Tensorflow
-- Google Cloud Platform
-- Firebase Notification
-- Gemini
+- Google Cloud
+- Firebase
+- Generative AI on Google Cloud
 - Langchain
 
 ## Try the app
